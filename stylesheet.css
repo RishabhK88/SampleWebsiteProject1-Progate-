@@ -1,0 +1,182 @@
+/* Reset CSS (DO NOT DELETE) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+/* Write your code below */
+header{
+  color: #fff;
+  height: 90px;
+  background: #26d0c9;
+  
+}
+.header-main{
+  float:left;
+  font-size: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+  
+}
+
+.header-list li{
+  float:left;
+  padding-right: 20px;
+  padding-left: 20px; 
+  padding-top: 33px;
+  padding-bottom: 33px;
+ 
+}
+
+.top{
+  padding-top: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
+   
+}
+.top h1{
+  font-size: 140px;
+}
+.top h2{
+  font-size: 60px;
+  }
+  
+.top span{
+  color: #ff4a4a;
+}
+
+.mid{
+  height: 500px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.mid h3{
+  font-size: 28px;
+  padding-bottom: 15px;
+  border-bottom: solid 2px #dee7ec;
+
+}
+
+.icon{
+  
+
+
+}
+.icon1{
+ padding-top: 50px;
+ display: inline-block;
+ padding-right: 20px;
+ padding-left: 0px;
+}
+.icon2{
+ padding-top: 50px;
+ display: inline-block;
+   padding-right: 20px;
+  padding-left: 10px;
+}
+.icon3{
+ padding-top: 50px;
+ display: inline-block;
+   padding-right: 20px;
+  padding-left: 10px;
+}
+.icon4{
+padding-top: 50px;
+ display: inline-block;
+ padding-right: 20px;
+ padding-left: 20px;
+}
+.text{
+  padding-top: 30px;
+  font-size: 24px;
+  
+}
+
+.bottom h3{
+  font-size: 28px;
+  padding-bottom: 15px;
+  border-bottom: solid 2px #dee7ec;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.contents{
+padding-top: 20px;
+padding-bottom: 120px;
+width: 400px;
+margin-left: 80px;
+margin-right: 80px;
+  
+}
+.contents p{
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+
+.contents input{
+  border: solid #dee7ec;
+  width: 400px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 60px;
+}
+
+.contents textarea{
+  border: solid #dee7ec;
+  width: 400px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 80px;
+}
+
+.btn{
+  background-color: #dee7ec;
+  width: 400px;
+  color: #889eab;
+  font-size: 18px ;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 60px;
+  
+}
+
+footer{
+  background-color: #2f5167;
+  height: 200px;
+  padding-top:40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  color: #fff;
+  
+}
+
+.left p{
+  font-size: 32px;
+  float:left;
+}
+.right{
+  float: right;
+}
+
+
+.right li{
+  
+  padding-bottom: 20px;
+  text-align: left;
+}
